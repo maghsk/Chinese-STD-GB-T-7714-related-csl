@@ -25,13 +25,11 @@ email 前后加 __
 
 ### 所有 `csl` 文件
 
-<!--![下载及使用动图](img/download-csl.gif)-->
-![下载及使用动图](/img/download-csl.gif "Title")
+![下载及使用动图](/img/download-csl.gif)
 
 ### 单个 `csl` 文件
 
-<!--![下载及使用动图](img/download-s-csl.gif)-->
-![下载及使用动图](/img/download-s-csl.gif "Title")
+![下载及使用动图](/img/download-s-csl.gif)
 
 
 ## 如何使用
@@ -64,21 +62,21 @@ GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和
 
 显示效果：
 
-> <sup>[1-12]</sup>
+> <sup>[1–12]</sup>
 
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
     <div class="csl-entry">[2] FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
     <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
     <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
     <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
     <div class="csl-entry">[7] 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
     <div class="csl-entry">[8] TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
     <div class="csl-entry">[9] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
     <div class="csl-entry">[10] BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-    <div class="csl-entry">[11] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
+    <div class="csl-entry">[11] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
     <div class="csl-entry">[12] CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   </div>
 </blockquote>
@@ -90,22 +88,27 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 显示效果：
 
-> (库恩, 2012; Fan et al., 2013; 贾东琴 等, 2011; Fourney, c1971; 武丽丽 等, 2008; Myburg et al., 2014; 邓一刚, 2006; Tachibana et al., 2005; 中国互联网络信息中心, 2012; Bawden, 2008; 杨保军, 2012; Calms, 1965)
+<blockquote>
+  (Crane, 1972)<br>
+  (王临惠 等, 2010)<br>
+  (王临惠, 2010)<br>
+  (Kennedy et al., 1975a)<br>
+  (Kennedy et al., 1975b)<br>
+  (邓一刚, 2006)<br>
+  (Bawden, 2008)<br>
+  (杨保军, 2012)<br>
+</blockquote>
 
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">邓一刚, 2006. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
-    <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
-    <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
-    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
-    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
-    <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
     <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-    <div class="csl-entry">CALMS R B, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
-    <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
-    <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
-    <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
-    <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al., 2005. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+    <div class="csl-entry">CRANE D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">KENNEDY W L, GARRISON R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">KENNEDY W L, GARRISON R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
   </div>
 </blockquote>
 
