@@ -113,6 +113,33 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
+## [002gb-t-7714-2015-numeric-bilingual-lower-name-no-url-doi.csl]
+
+1. 根据语言显示“等”和“et al.”；
+2. 姓名取消全大写；
+3. 仅纯电子文献显示 URL；
+4. 无 DOI。
+
+> <sup>[1–12]</sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7] 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
+    <div class="csl-entry">[8] Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
+    <div class="csl-entry">[9] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. 2012[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[10] Bawden D. Origins and concepts of digital literacy[EB/OL]. 2008[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">[11] 杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012.</div>
+    <div class="csl-entry">[12] Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  </div>
+</blockquote>
+
+
 ## [003gb-t-7714-2005-numeric-book-pages.csl]
 
 [chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl) 官方版本上修改，文献类型 `Book`（书籍）可以显示页码，需要将页码放在 `# of Pages`（总页码）字段。
@@ -952,6 +979,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
+[002gb-t-7714-2015-numeric-bilingual-lower-name-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-lower-name-no-url-doi.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
